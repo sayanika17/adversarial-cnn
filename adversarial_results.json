@@ -1,0 +1,14 @@
+{
+  "fgsm": {
+    "accuracy": 97.1
+  },
+  "pgd": {
+    "accuracy": 96.1
+  },
+  "cw": {
+    "accuracy": 20.3
+  },
+  "deepfool": {
+    "accuracy": 0.0
+  }
+}
